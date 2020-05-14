@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ego\\Desktop\\08_APBD\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp.csproj",
+      "projectUniqueName": "D:\\Study\\APBD\\tut8\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp.csproj",
       "projectName": "LinqConsoleApp",
-      "projectPath": "C:\\Users\\Ego\\Desktop\\08_APBD\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp.csproj",
+      "projectPath": "D:\\Study\\APBD\\tut8\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Ego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ego\\Desktop\\08_APBD\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp\\obj\\",
+      "outputPath": "D:\\Study\\APBD\\tut8\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ego\\AppData\\Roaming\\NuGet\\NuGet.Config",
